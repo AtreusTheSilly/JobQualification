@@ -1,4 +1,5 @@
 Задача 2.
+
 Заданы два контейнера:
     std::list<int> const m1 = {7,8,9,4,5,6,1,2,3,4};
     std::list<int> const m2 = {-3,-2,-1,0,0,1,2,3,4,5};
@@ -10,6 +11,7 @@
 
 
 Задача 3.1.
+
 Есть таблица «nalog_plat», которая содержит 4 поля:
   name – наименование учреждения, character varying;
   head60900 – вид деятельности, character varying;
@@ -21,6 +23,7 @@
 
 
 Задача 3.2.
+
 Есть таблица «nalog_plat_reestr», которая содержит 3 поля:
   inn - инн учреждения, character varying;
   budget - бюджет, character varying;
